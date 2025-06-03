@@ -8,7 +8,7 @@ const projects = [
     name: "Cook Nest - Smart Meal Planner",
     year: "April2025",
     align: "right",
-   image: "/cook nest pic.png"
+   image: "/cook nest pic.png",
     link: "https://recipe-app-api-9.onrender.com/",
   },
   {
