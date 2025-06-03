@@ -44,7 +44,7 @@ const HeroText = () => {
         viewport={{ once: false, amount: 0 }}
       >
         <a
-            href="/Raheel-CV.pdf"
+            href="/Raheel.cv (1).pdf"
           download
           className="inline-flex items-center gap-2 bg-orange text-white px-6 py-2 rounded-full font-semibold hover:bg-cyan transition duration-300 w-fit mt-4"
         >
